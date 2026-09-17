@@ -1,0 +1,1 @@
+# Scripts Bash (.sh) y SQL (.sql) de Administración y Verificación

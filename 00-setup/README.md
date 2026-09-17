@@ -1,0 +1,1 @@
+# Guías de Instalación y Configuración del Entorno (VirtualBox + Oracle Linux 8 + Oracle 23cS)

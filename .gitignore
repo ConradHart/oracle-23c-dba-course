@@ -1,0 +1,20 @@
+# Sistemas Operativos
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Entornos y Editores
+.vscode/
+.idea/
+
+# Archivos de la máquina virtual e ISOs (evitar subir instaladores pesados)
+*.iso
+*.ova
+*.vdi
+*.vmdk
+*.log
+*.tmp
+
+# Archivos de respaldo
+*.bak
+*.swp
